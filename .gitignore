@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Build files
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+.venv-blocked/
+
+# Environment secrets
+.env
+.env.*
+!.env.template
